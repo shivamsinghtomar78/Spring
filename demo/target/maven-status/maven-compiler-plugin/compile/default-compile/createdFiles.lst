@@ -1,0 +1,8 @@
+com\example\demo\repo\LaptopRepository.class
+com\example\demo\Model\Alien.class
+com\example\demo\Model\Computer.class
+com\example\demo\Model\Desktop.class
+com\example\demo\Model\Laptop.class
+com\example\demo\SpringBootDemoApplication$SpringBootApplication.class
+com\example\demo\SpringBootDemoApplication.class
+com\example\demo\Service\LaptopService.class
